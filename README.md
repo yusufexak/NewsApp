@@ -6,7 +6,7 @@ Dünyadan konulara göre haberler.
 
 > Bu uygulama kullanılan haberler https://collectapi.com/tr/ `Haberler API` ile sağlanmıştır.
 
-![NewsApp](https://raw.githubusercontent.com/yusufexak/NewsApp/master/NewsApp/newsApp/newsgif.gif?token=AJXQ4NYWWJBSQVHZFZ55HCC7AODH2)
+![NewsApp](https://raw.githubusercontent.com/yusufexak/NewsApp/master/NewsApp/newsApp/newsgif.gif)
 
 ---
 
